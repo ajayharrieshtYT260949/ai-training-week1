@@ -1,2 +1,2 @@
 # ai-training-week1
-Project status: Learning AI and data engineering
+Project status: Learning Git basics, AI, and data engineering
